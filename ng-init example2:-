@@ -1,0 +1,12 @@
+<html>
+        <head>
+            <title>AngualrJS - ng-init</title>
+            <script src="angular.js"</script>
+        </head>
+           <body>
+             <div ng-app ng-init="x=10;y=20;z=x+y">
+             <p>x value is {{x}}</p>
+              <p>y value is {{y}}</p>
+             <p>z value is {{z}}</p>
+           </body>
+</html>
