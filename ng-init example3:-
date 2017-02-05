@@ -1,0 +1,13 @@
+<html>
+             <head>
+                     <title>AngualrJS - ng-init</title>
+                      <script src="angular.js"</script>
+              </head>
+<body>
+         <div ng-app ng-init="employee={empid : 101 , empname : 'scott' , salary                :4000"};Student={sid :101, sname :'gaurav' ,sage :78}>
+
+                   <p>x value is {{employee}}</p>
+                   <p>y value is {{employee}}</p>
+                   <p>z value is {{employee.salary}}</p>
+  </body>
+</html>
