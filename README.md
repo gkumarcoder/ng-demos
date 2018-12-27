@@ -14,6 +14,11 @@ ng-demos
 
 --->Hands-on experience in analysis, design, coding, and implementation of complex, custom-built applications
 
+ ## google
+ 
+ Experience with algorithms, data structures, ## complexity analysis and software design.
+ 
+
 # Responsible For
 
 Building a complex, enterprise-transforming applications on diverse, high energy teams Using the latest tools and techniques
