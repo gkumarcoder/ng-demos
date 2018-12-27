@@ -18,6 +18,18 @@ Building a complex, enterprise-transforming applications on diverse, high energy
 
 Hands-on coding, usually in a pair programming environment.
 
+Creating complex, enterprise-transforming applications on diverse, high energy teams
+
+Using the latest tools and techniques
+
+Hands-on coding, usually in a pair programming environment
+
+Working in highly collaborative teams and building quality code
+
+Working in lots of different domains and client environments
+
+Understanding the business domain deeply and working closely with business stakeholders
+
 
 # Soft Skills 
 
