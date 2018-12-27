@@ -51,6 +51,12 @@ Big data technology stack
 Financial market knowledge
 
 RESTful web services
+
+## Adobe
+
+highly available, low latency, cloud scale foundation components such as Cache, Storage, Database (SQL and NoSQL), Queuing, Pub-Sub etc.
+
+to create one standard to develop, deploy, operate and govern Adobe SaaS solutions on multiple clouds.
  
 
 # Responsible For
