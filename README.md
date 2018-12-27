@@ -18,6 +18,40 @@ ng-demos
  
  Experience with algorithms, data structures, ## complexity analysis and software design.
  
+ ## Goldman Sachs
+ 
+ Experience developing applications using relational databases and SQL. Object-oriented database experience a plus
+ 
+ Experience with complex distributed systems and multi-tier architectures.
+ 
+ Experience working in the full Software Development Lifecycle (SDLC)
+ 
+ Experience with complex debugging and root-cause analysis.
+ 
+ Knowledge of content extraction using ML/Deep Learning techniques is must
+ 
+Knowledge of SDLC practices, Junit, Maven and Gradle is essential
+
+Effective problem-solving, analytical and technical skill is essential
+
+Experience with NoSQL databases, such as MongoDB, ElasticSearch
+
+Experience with various messaging systems, such as TIBCO EMS, Kafka or RabbitMQ
+
+Experience with Caching solutions like Hazelcast or other equivalent solutions
+
+Experience with building stream-processing systems, using Spark-Streaming
+
+Programming in Perl, Python or UNIX Shell script.
+
+Minimum 2 years of Core Java Programming with Collections Framework, Concurrent Programming, Multi-threading
+
+Big data technology stack
+
+Financial market knowledge
+
+RESTful web services
+ 
 
 # Responsible For
 
