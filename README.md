@@ -10,7 +10,7 @@ ng-demos
 
 --->Knowledge of software standard methodologies, like Test Driven Development (TDD) and Continuous Integration (CI)
 
---->
+--->Experience working with, or an interest in Agile Methodologies, such as Extreme Programming (XP) and Scrum
 
 # Responsible For
 
