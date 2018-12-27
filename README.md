@@ -12,6 +12,8 @@ ng-demos
 
 --->Experience working with, or an interest in Agile Methodologies, such as Extreme Programming (XP) and Scrum
 
+--->Hands-on experience in analysis, design, coding, and implementation of complex, custom-built applications
+
 # Responsible For
 
 Building a complex, enterprise-transforming applications on diverse, high energy teams Using the latest tools and techniques
