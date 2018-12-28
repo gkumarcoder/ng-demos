@@ -85,3 +85,7 @@ Thinking big and acting fast. You’ll need a startup mentality with enterprise 
 Influencing priorities, for both the team and the client. You understand both the business problem and the technical solution, and you’re able to advocate for excellence and effect change when necessary.
 
 Finesse. As consultants, we navigate within our client’s organizations to influence big decision makers and win trust. In this job, you’ll be using your people skills as much as your coding skills.
+
+
+![image](https://user-images.githubusercontent.com/25560217/50520050-20c34480-0ae4-11e9-872b-a66681f5c06e.png)
+
