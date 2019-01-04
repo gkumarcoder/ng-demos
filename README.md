@@ -89,3 +89,11 @@ Finesse. As consultants, we navigate within our client’s organizations to infl
 
 ![image](https://user-images.githubusercontent.com/25560217/50520050-20c34480-0ae4-11e9-872b-a66681f5c06e.png)
 
+Deep learning
+
+https://www.fast.ai/2016/10/08/overview/
+
+
+https://www.fast.ai/2016/10/08/teaching-philosophy/
+http://videos.re-work.co/events/29-deep-learning-summit-london-2017?_ga=2.52766191.696552239.1546602925-1550228899.1546602925
+
