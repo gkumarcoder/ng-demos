@@ -1,6 +1,6 @@
 # ng-demos
 ng-demos
-
+GraphQL
 # Algorithm Engineer
 --->Experience with picking and applying good software practices like test driven development (TDD).                  
 
