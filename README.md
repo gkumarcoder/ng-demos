@@ -1,6 +1,7 @@
 # ng-demos
 ng-demos
 GraphQL
+Some experience in distributed systems, including high-performance distributed storage and networking
 # Algorithm Engineer
 --->Experience with picking and applying good software practices like test driven development (TDD).                  
 
