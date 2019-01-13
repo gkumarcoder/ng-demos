@@ -97,3 +97,7 @@ https://www.fast.ai/2016/10/08/overview/
 https://www.fast.ai/2016/10/08/teaching-philosophy/
 http://videos.re-work.co/events/29-deep-learning-summit-london-2017?_ga=2.52766191.696552239.1546602925-1550228899.1546602925
 
+#ML
+
+Facebook is seeking machine learning engineers to join our engineering team. The ideal person will have industry experience working on a range of classification and optimisation problems, e.g. payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentiment classification, collaborative filtering/recommendation, or spam detection. The position will involve taking these skills and applying them to some of the most exciting and massive social data and prediction problems that exist on the web.
+
