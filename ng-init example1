@@ -3,7 +3,7 @@
        <title>AngualrJS - ng-init</title>
        <script src="angular.js"</script>
    </head>
-           <body>
+           <body>    
            
            
                    <div ng-app ng-init="empid=101;empname='scott';salary=4000">
