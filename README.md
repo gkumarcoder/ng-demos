@@ -106,3 +106,9 @@ http://videos.re-work.co/events/29-deep-learning-summit-london-2017?_ga=2.527661
 
 Facebook is seeking machine learning engineers to join our engineering team. The ideal person will have industry experience working on a range of classification and optimisation problems, e.g. payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentiment classification, collaborative filtering/recommendation, or spam detection. The position will involve taking these skills and applying them to some of the most exciting and massive social data and prediction problems that exist on the web.
 
+
+
+
+
+This project we designed and developed to optimize Alliance distribution demand transport and storage costs and lead-time by Building Machine learning Prediction model using history data for each plant/Model/market and pushed to elastic index. Periodic data [order/production] from Upstream will be loaded in to Amazon S3 Storage, Forecast distribution demand will be build based on Prediction model which is stored in elastic 6.3 and its validated against source system for new model / plant. Java spring boot based application is used for visualization and prediction customization for used and Spring Batch for building forecast file and transfer it to S3 Storage. Rotating Index concept is implemented for Zero down time which pushing new data in to Elastic
+
