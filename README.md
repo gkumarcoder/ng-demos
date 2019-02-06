@@ -5,6 +5,7 @@ Some experience in distributed systems, including high-performance distributed s
 programming patterns,
 Portfolio URL
 
+
 Familiarity with data analysis tools, statistical packages, and Machine Learning
 # Algorithm Engineer
 --->Experience with picking and applying good software practices like test driven development (TDD).                  
