@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y openjdk-7-jdk
 RUN apt-get remove -y openjdk-8-jdk
 RUN apt-get autoremove -y
   
+  
 # Add plugins from list
 USER root
 COPY plugins.txt /usr/share/jenkins/ref/
