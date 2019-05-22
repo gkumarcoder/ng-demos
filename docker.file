@@ -19,3 +19,4 @@ RUN /usr/local/bin/plugins.sh /usr/share/jenkins/ref/plugins.txt
 # Start jenkins
 USER jenkins
 CMD ["/usr/local/bin/jenkins.sh"]
+
