@@ -9,8 +9,14 @@ public class CountryNode {
 
 	private String isoCountry;
 	
+	private String message;
+	
 	public String getId() {
 		return id;
+	}
+	
+	public String getMeassgee(){
+	return message;
 	}
 
 	public void setId(String id) {
