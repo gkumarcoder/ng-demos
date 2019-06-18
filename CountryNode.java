@@ -30,5 +30,9 @@ public class CountryNode {
 	public void setIsoCountry(String isoCountry) {
 		this.isoCountry = isoCountry;
 	}
+	
+	public void setMessage(String message) {
+		this.message = message;
+	}
 
 }
