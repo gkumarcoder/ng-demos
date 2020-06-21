@@ -12,6 +12,7 @@ public class CountryDestinationCode {
 	
 	public CountryDestinationCode() {}
 	
+	
 	public CountryDestinationCode(String vin, String isoCountry, String deliveryCode, String stockType,String companyDeliveryZone) {
 		this.vin = vin;
 		this.isoCountry = isoCountry;
