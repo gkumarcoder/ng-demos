@@ -44,6 +44,7 @@ import com.alliance.louisa.louisa2.util.CryptoUtil;
 
 @Component
 public class Louisa1Client {
+	
 
     private static final Logger log = LoggerFactory.getLogger(Louisa1Client.class);
 
